@@ -13,7 +13,10 @@
     <a href="https://github.com/RRrrChloe?tab=repositories&q=spss" target="_blank"><img alt=alt="SPSS" src="https://img.shields.io/badge/-SPSS-0F62FE?style=flat-square&logo=ibm&logoColor=white"></a>
 </p>
 
-
+<p align="center">
+    <!--<a href="https://github.com/RRrrChloe" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/RRrrChloe/RRrrChloe?label=hits&style=flat-square"></a>-->
+    <a href="https://github.com/RRrrChloe/RRrrChloe" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/RRrrChloe/RRrrChloe?label=profile%20updated&style=flat-square"></a>
+</p>
 
 <details>
 <summary>Click for GitHub Stats</summary>
