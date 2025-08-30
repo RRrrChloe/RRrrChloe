@@ -1,4 +1,4 @@
-
+![Hello, I'm Chloe](./hello-im-chloe.svg)
 
 <p align="center">
     <a href="https://github.com/RRrrChloe" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@chloe-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
